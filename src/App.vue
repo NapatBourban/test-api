@@ -5,11 +5,11 @@ import { RouterLink, RouterView } from "vue-router";
 <template>
   <div class="collapse" id="navbarToggleExternalContent">
     <div class="bg-dark p-4 d-flex d-flex justify-content-center">
-    <img src="./assets/B0ynhPvXEUs1QEaA6Ja0.jpg" style="width: 200px;height:200px">
+      <img src="./assets/B0ynhPvXEUs1QEaA6Ja0.jpg" style="width: 200px; height: 200px" />
       <span class="text-muted">Toggleable via the navbar brand.</span>
     </div>
   </div>
-  <div class="navbar navbar-dark bg-dark ">
+  <div class="navbar navbar-dark bg-dark">
     <div class="container-fluid">
       <button
         class="navbar-toggler"
